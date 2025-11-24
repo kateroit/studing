@@ -1,0 +1,16 @@
+﻿  Lr3.cpp
+D:\studing\3D\LR3\Lr3\Lr3.cpp(11,28): warning C4305: инициализация: усечение из "double" в "GLfloat"
+D:\studing\3D\LR3\Lr3\Lr3.cpp(14,16): warning C4305: инициализация: усечение из "double" в "GLfloat"
+D:\studing\3D\LR3\Lr3\Lr3.cpp(76,23): warning C4305: +=: усечение из "double" в "GLfloat"
+D:\studing\3D\LR3\Lr3\Lr3.cpp(79,23): warning C4305: -=: усечение из "double" в "GLfloat"
+D:\studing\3D\LR3\Lr3\Lr3.cpp(94,21): warning C4305: +=: усечение из "double" в "GLfloat"
+D:\studing\3D\LR3\Lr3\Lr3.cpp(97,21): warning C4305: +=: усечение из "double" в "GLfloat"
+D:\studing\3D\LR3\Lr3\Lr3.cpp(100,21): warning C4305: +=: усечение из "double" в "GLfloat"
+D:\studing\3D\LR3\Lr3\Lr3.cpp(103,21): warning C4305: -=: усечение из "double" в "GLfloat"
+D:\studing\3D\LR3\Lr3\Lr3.cpp(106,21): warning C4305: -=: усечение из "double" в "GLfloat"
+D:\studing\3D\LR3\Lr3\Lr3.cpp(109,21): warning C4305: -=: усечение из "double" в "GLfloat"
+D:\studing\3D\LR3\Lr3\Lr3.cpp(229,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\studing\3D\LR3\Lr3\Lr3.cpp(230,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Lr3.vcxproj -> D:\studing\3D\LR3\Lr3\x64\Debug\Lr3.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.

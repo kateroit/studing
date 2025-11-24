@@ -1,0 +1,2 @@
+D:\studing\3D\LR3\Lr3\x64\Debug\glfw3.dll
+D:\studing\3D\LR3\Lr3\Lr3\x64\Debug\Lr3.vcxproj.Up2Date
